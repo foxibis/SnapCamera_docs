@@ -13,7 +13,7 @@ __必ずろじらぼ様の[セットアップガイド](http://static.logicmachi
 
 - Virtual Lens SettingsのCamera Objectでは、Root Objectに `SnapCamera_VirtualLens` をNon-Preview Rootに `SnapCamera_Mesh` を設定して下さい。
 
-![01](https://github.com/foxibis/snapcamera-docs/blob/master/images/SC-manual_02.png)
+![SC-manual_02.png](https://github.com/foxibis/snapcamera-docs/blob/2f31c5f7fd0aec49f8059d8f694edb1c070f017f/images/SC-manual_02.png)
 
 - Hideable Meshesに `SnapCamera_Mesh` を設定するとカメラモデルの非表示表示オプションが使えるようになります。
 
