@@ -9,7 +9,7 @@ __必ずろじらぼ様の[セットアップガイド](http://static.logicmachi
 
 - VirtualLens2を利用される方は __SnapCamera_VirtualLens.prefab__ を利用して下さい。
 
-- Virtual Lens SettingsのCamera Objectでは、Root Objectに <span style="background-color:#279FCA">SnapCamera_VirtualLens</span> をNon-Preview RootにSnapCamera_Meshを設定して下さい。
+- Virtual Lens SettingsのCamera Objectでは、Root Objectに `SnapCamera_VirtualLens` をNon-Preview RootにSnapCamera_Meshを設定して下さい。
 
 - Hideable MeshesにSnapCamera_Meshを設定するとカメラモデルの非表示表示オプションが使えるようになります。
 
@@ -21,11 +21,11 @@ __必ずひらびきWORKS様の[ドキュメント](https://vrchat.com/home/worl
 - 個人的に使用しているパラメーターを添付するので参考にどうぞ
 
 # 更新履歴
-| Data | Version | About |
-|:---:|:---:|:---|
-| 2020/09/30 | 1.0 | |
-| 2020/11/13 | 2.0 | モデルデーターを変更しました。(見た目は変わりません) <br> UV見直しに伴いテクスチャが大幅に変更されています。 <br> PSDを追加 <br> ストラップ(DynamicBoneセットアップ済)を追加 |
-| 2021/04/27 | 2.1 | Boneを修正したため以前とDynamicBoneの挙動が変わっています <br> Prefab内構造を見直しセットアップがしやすくなっています <br> オンラインドキュメントを追加 |
+| Data       | Version | About |
+|:----------:|:-------:|:------|
+| 2020/09/30 | 1.0     |       |
+| 2020/11/13 | 2.0     | モデルデーターを変更しました。(見た目は変わりません) <br> UV見直しに伴いテクスチャが大幅に変更されています。 <br> PSDを追加 <br> ストラップ(DynamicBoneセットアップ済)を追加 |
+| 2021/04/27 | 2.1     | Boneを修正したため以前とDynamicBoneの挙動が変わっています <br> Prefab内構造を見直しセットアップがしやすくなっています <br> オンラインドキュメントを追加 |
 
 # 規約
 基本的に良識の範囲内でご利用いただければ問題ありません。
