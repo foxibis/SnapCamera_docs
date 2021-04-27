@@ -13,11 +13,11 @@ __必ずろじらぼ様の[セットアップガイド](http://static.logicmachi
 
 - Virtual Lens SettingsのCamera Objectでは、Root Objectに `SnapCamera_VirtualLens` をNon-Preview Rootに `SnapCamera_Mesh` を設定して下さい。
 
-![SC-manual_02.png](https://github.com/foxibis/snapcamera-docs/blob/2f31c5f7fd0aec49f8059d8f694edb1c070f017f/images/SC-manual_02.png)
+![](https://raw.githubusercontent.com/foxibis/snapcamera-docs/master/images/SC-manual_02.png)
 
 - Hideable Meshesに `SnapCamera_Mesh` を設定するとカメラモデルの非表示表示オプションが使えるようになります。
 
-![02](https://github.com/foxibis/snapcamera-docs/blob/master/images/SC-manual_04.png)
+![](https://github.com/foxibis/snapcamera-docs/blob/master/images/SC-manual_04.png?raw=true)
 
 ## VRCLens
 
@@ -27,8 +27,7 @@ __必ずひらびきWORKS様の[ドキュメント](https://vrchat.com/home/worl
 
 - 個人的に使用しているパラメーターを添付するので参考にどうぞ
 
-![03](https://github.com/foxibis/snapcamera-docs/blob/master/images/SC-manual_03.png)
-
+![](https://github.com/foxibis/snapcamera-docs/blob/master/images/SC-manual_03.png?raw=true)
 # 更新履歴
 
 | Data       | Version | About   |
