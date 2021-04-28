@@ -21,7 +21,7 @@ __必ずろじらぼ様の[セットアップガイド](http://static.logicmachi
 
 ## VRCLens
 
-__必ずひらびきWORKS様の[ドキュメント](https://vrchat.com/home/world/wrld_85bfeefb-78b8-444c-b4e8-15698fb7864d)をご覧になってからセットアップを行って下さい。__ 以下、補足です。
+__必ずひらびきWORKS様の[ドキュメント](https://docs.google.com/document/d/1YqKdZEr36GMuExzHze7eIEDZYBVd_6fJsRASOPaRFUc/edit?usp=sharing)をご覧になってからセットアップを行って下さい。__ 以下、補足です。
 
 - VRCLensを利用される方は __`SnapCamera.prefab`__ をSceneに配置後、調整はせず(Position/RotationがXYZ0の状態)セットアップにてChange Camera Modelを押して下さい。その後VRC Lens SetupにてScaleなど調整して下さい。
 
