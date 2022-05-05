@@ -1,6 +1,6 @@
 # 導入方法
 
-[ユニティちゃんトゥーンシェーダー2.0](https://unity-chan.com/download/releaseNote.php?id=UTS2_0)(必須) + DynamicBoneを予めインポートしてください。
+「[lilToon](https://lilxyzw.booth.pm/items/3087170)」を予めインポートしてください。
 
 SnapCamera.unitypackageをインポート後、Assets > SnapCamera内に各種データが格納されています。
 
@@ -35,6 +35,7 @@ __必ずひらびきWORKS様の[ドキュメント](https://docs.google.com/docu
 | 2020/09/30 | 1.0     | 販売開始 |
 | 2020/11/13 | 2.0     | モデルデーターを変更しました。(見た目は変わりません) <br> UV見直しに伴いテクスチャが大幅に変更されています。 <br> PSDを追加 <br> ストラップ(DynamicBoneセットアップ済)を追加 |
 | 2021/04/27 | 2.1     | Boneを修正したため以前とDynamicBoneの挙動が変わっています <br> Prefab内構造を見直しセットアップがしやすくなっています <br> オンラインドキュメントを追加 |
+| 2022/05/04 | 2.2     | シェーダーをlilToonに変更 <br> ストラップのPhysBones対応 <br> FBXのインポート設定を修正 |
 
 # 規約
 
